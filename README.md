@@ -1,2 +1,2 @@
-# computer-graphics-project
+# Computer-Graphics-project
 c++ ( glut )
